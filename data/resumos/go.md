@@ -1,0 +1,6 @@
+Região: Centro-Oeste | Capital: Goiânia | População: 7.056.495 habitantes (2022), mais populoso do Centro-Oeste
+Geografia e clima: Planalto Central, cerrado predominante, Chapada dos Veadeiros, bacias do Paraná, Tocantins, Araguaia e São Francisco, clima tropical com estação seca, sem litoral, entorno do Distrito Federal (RIDE).
+Economia: 9ª maior economia do país, forte agronegócio (soja, milho, cana, sorgo), 2º maior rebanho bovino do Brasil, mineração (níquel, nióbio, cobre, ouro), polo farmoquímico em Anápolis, indústria automotiva, águas termais de Caldas Novas (maior parque hidrotermal do mundo).
+Cultura: culinária com pequi, arroz com suã, empadão goiano, quitandas e doces caseiros, catira como dança tradicional, forte cena sertaneja (Marília Mendonça, Jorge e Mateus, Zezé Di Camargo), literatura de Cora Coralina e Bernardo Élis, cavalhadas de Pirenópolis, Festa do Divino Pai Eterno em Trindade.
+Turismo e marcos: cidade histórica de Goiás (antiga capital colonial, patrimônio UNESCO), Chapada dos Veadeiros, Caldas Novas, Parque Nacional das Emas, Pirenópolis.
+Curiosidades: capital muda simbolicamente entre municípios em datas específicas, Palmelo é o único município do Brasil onde o espiritismo é a maior religião, cedeu território para a criação de Brasília e do Tocantins, forte identidade sertaneja e agropecuária.

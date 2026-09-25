@@ -1,0 +1,6 @@
+Região: Sudeste | Capital: Belo Horizonte | População: cerca de 21,4 milhões (2º mais populoso do país)
+Geografia e clima: topografia muito acidentada com alguns dos picos mais altos do Brasil (Pico da Bandeira, 2891 m), nascente de grandes rios (São Francisco, Doce, Grande, Jequitinhonha), clima tropical variando a semiárido no norte, biomas cerrado e Mata Atlântica devastada, maior malha rodoviária do país.
+Economia: terceiro maior PIB do Brasil, forte mineração histórica e atual (minério de ferro principal exportação, também café, ferro-ligas e ouro), terceiro estado que mais exporta, grande produção hidrelétrica.
+Cultura: ciclo do ouro e diamante no século XVIII, barroco mineiro (Aleijadinho), Inconfidência Mineira e Tiradentes, culinária de interior (pão de queijo, tutu de feijão, cachaça), forte catolicismo popular, sotaque mineiro característico, Chico Xavier e o espiritismo.
+Turismo e marcos: cidades históricas coloniais (Ouro Preto, Mariana, Diamantina), Serra do Cipó, Serra da Canastra, Parque Nacional do Caparaó.
+Curiosidades: maior número de municípios do Brasil (853), fóssil humano mais antigo da América do Sul (Luzia, em Lagoa Santa), berço da Inconfidência Mineira, mais de 120 quilombos surgiram no século XVIII.

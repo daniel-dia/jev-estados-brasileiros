@@ -1,0 +1,6 @@
+Região: Nordeste (Meio-Norte e Sertão) | Capital: Teresina (única capital nordestina não litorânea) | População: 3 271 199 habitantes
+Geografia e clima: menor litoral do Brasil (66 km), Delta do Parnaíba (único em mar aberto das Américas), Serra da Capivara com pinturas rupestres milenares, biomas de transição entre caatinga, cerrado e mata de cocais, clima tropical e semiárido, 82,5% do território no polígono das secas.
+Economia: pecuária histórica (caprinos, bovinos), forte produção de soja, milho e castanha-de-caju (segundo maior produtor do Brasil), mineração emergente (ferro, níquel, opala), indústria química, têxtil e de bebidas, geração de energia eólica (3º maior produtor do país).
+Cultura: maior proporção de católicos e menor de evangélicos do Brasil, centenas de terreiros afro-brasileiros em Teresina, festas juninas tradicionais, culinária com maria-isabel, baião de dois, sarapatel e cajuína (bebida típica do caju).
+Turismo e marcos: Parque Nacional da Serra da Capivara, Delta do Parnaíba, Cânion do Poti, Rota das Emoções.
+Curiosidades: já teve o registro de temperatura mais alta do Brasil (44,7°C em 2005), Batalha do Jenipapo (1823) consolidou adesão à Independência, litígio de fronteira histórico com o Ceará, Teresina tem sistema de metrô.

@@ -1,0 +1,6 @@
+Região: Sul | Capital: Florianópolis | População: cerca de 7,6 milhões (10º lugar no ranking nacional)
+Geografia e clima: relevo mais montanhoso do país (52% acima de 600 m), litoral com ilhas e baías, clima subtropical com geadas e neve nas serras (São Joaquim, Urubici), menor temperatura já registrada no Brasil (-14°C em Caçador), Mata Atlântica.
+Economia: forte agroindústria (Sadia, Perdigão, Aurora), maior exportador de frango e carne suína do Brasil, indústria têxtil, cerâmica de revestimento, motores elétricos (WEG), carvão mineral, maçã e uva, maior produtor de louças e cristais do país.
+Cultura: colonização açoriana, alemã (Blumenau, Joinville) e italiana, dialetos talian e hunsrückisch, Oktoberfest, culinária com influência germânica e italiana, menor desigualdade econômica do país, alto índice de alfabetização e expectativa de vida.
+Turismo e marcos: praias de Balneário Camboriú e Bombinhas (capital do mergulho), Serra Catarinense com neve, arquitetura enxaimel em Blumenau e Pomerode, Beto Carrero World, Farol de Santa Marta.
+Curiosidades: capital não é a cidade mais populosa (Joinville é maior), maior expectativa de vida e menor mortalidade infantil do país, apelido "barrigas-verdes".

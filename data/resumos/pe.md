@@ -1,0 +1,6 @@
+Região: Nordeste (centro-leste) | Capital: Recife | População: cerca de 8,8 milhões (7º mais populoso)
+Geografia e clima: inclui os arquipélagos de Fernando de Noronha e São Pedro e São Paulo, relevo modesto com Planalto da Borborema, clima semiárido no interior e tropical úmido no litoral e zona da mata, um dos maiores déficits hídricos do país.
+Economia: décimo maior PIB do país, maior produtor de acerola e goiaba, segundo de uva, terceiro de manga e coco, tradição açucareira desde o Brasil Colônia, Complexo Industrial e Portuário de Suape, Porto Digital (polo de tecnologia em Recife), Polo Médico do Recife (segundo maior do país).
+Cultura: berço do frevo, maracatu, coco e capoeira, Movimento Armorial (Ariano Suassuna) e Manguebeat (Chico Science), maior comunidade evangélica proporcional do Nordeste, herança judaica histórica (primeira sinagoga das Américas), culinária influenciada pela colonização holandesa.
+Turismo e marcos: Fernando de Noronha (Baía do Sancho, Patrimônio Natural da Humanidade), Porto de Galinhas, Olinda.
+Curiosidades: primeiro núcleo econômico do Brasil colonial (pau-brasil e açúcar), origem do Exército Brasileiro nas Batalhas dos Guararapes, Quilombo dos Palmares ligado à sua história, primeira província a se separar de Portugal antes da Independência.

@@ -1,0 +1,6 @@
+Região: Norte | Capital: Belém | População: 8,1 milhões (9º mais populoso, líder do Norte)
+Geografia e clima: coberto pela Floresta Amazônica, segundo maior estado em área, relevo baixo e plano, serras dos Carajás e Cachimbo, rio Amazonas e afluentes (Tocantins, Xingu, Tapajós), grande potencial hidrelétrico, alto índice pluviométrico, maior desmatamento do Brasil.
+Economia: líder nacional em alumínio, manganês e produção mineral comercializada, grande produtor de cobre, ferro, ouro e estanho, maior produtor brasileiro de mandioca, açaí (95% do nacional), abacaxi, cacau e pimenta-do-reino, forte pecuária, hidrelétricas de Tucuruí e Belo Monte entre as maiores do mundo.
+Cultura: carimbó (patrimônio cultural imaterial), Círio de Nazaré (uma das maiores festas católicas do país), culinária com forte influência indígena (tacacá, pato no tucupi, maniçoba), imigração japonesa (terceira maior colônia do país), italiana e libanesa, artesanato marajoara.
+Turismo e marcos: Belém (Estação das Docas, Ver-o-Peso), Ilha de Marajó, Amazônia.
+Curiosidades: capital mais favelizada do país segundo o PNUD, segunda pior educação pública do Brasil, disputa histórica por divisão em estados de Carajás e Tapajós rejeitada em plebiscito de 2011.

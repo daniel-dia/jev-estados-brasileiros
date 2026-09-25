@@ -1,0 +1,6 @@
+Região: Nordeste | Capital: Maceió | População: 3.127.683 habitantes
+Geografia e clima: litorâneo, penúltimo estado em área, baixada litorânea com praias e restingas, planalto da Borborema, bacia do São Francisco, lagoas Manguaba e Mundaú (origem do nome), clima úmido no litoral e semiárido no interior, Mata Atlântica e Caatinga.
+Economia: maior produtor de cana-de-açúcar do Nordeste e do açúcar mundial, maior produtor de gás natural do Brasil, petróleo, sal-gema, indústria química e sucroalcooleira, turismo forte (resorts em Maragogi e Japaratinga), um dos menores IDH do país mas maior crescimento em 12 anos.
+Cultura: herança de quilombos (Palmares, Zumbi), 71 comunidades quilombolas, folguedos como pastoril, coco de roda e maracatu, culinária com sururu, água de coco, no sertão carne de bode e carneiro (sarapatel, buchada), escritores Graciliano Ramos e Jorge de Lima, cantor Djavan.
+Turismo e marcos: praias do litoral norte (Maragogi, Japaratinga, São Miguel dos Milagres), piscinas naturais de Maceió, centro histórico de Marechal Deodoro e Penedo, Cânion do Xingó.
+Curiosidades: nome vem de "lagoa", berço do quilombo dos Palmares e de Zumbi, terra natal de Marechal Deodoro da Fonseca e do ex-presidente Collor, forte crescimento recente do turismo internacional.

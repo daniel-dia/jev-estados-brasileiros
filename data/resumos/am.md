@@ -1,0 +1,6 @@
+Região: Norte | Capital: Manaus | População: cerca de 4,27 milhões (maior estado do Brasil em área, 13º mais populoso)
+Geografia e clima: maior unidade federativa do Brasil, maior que França, Espanha, Suécia e Grécia juntas, Pico da Neblina (ponto mais alto do Brasil), Encontro das Águas (Negro e Solimões), floresta amazônica em quase toda a extensão, clima equatorial muito úmido, 98% preservado.
+Economia: Zona Franca de Manaus, terceiro maior centro industrial do país (motos, eletrônicos, celulares), terceiro maior produtor de gás e petróleo, maior produtor de fibras, extrativismo de açaí e castanha, sexta maior economia do Brasil.
+Cultura: Festival Folclórico de Parintins (Boi Garantido x Boi Caprichoso, segundo maior evento popular do Brasil), Teatro Amazonas, maior população indígena do país, caboclos, imigração japonesa (guaraná em Maués), culinária com peixe de água doce, tacacá, pirarucu, açaí.
+Turismo e marcos: Encontro das Águas, Teatro Amazonas, Parque Nacional do Jaú (maior parque de floresta úmida do mundo), Reserva Mamirauá.
+Curiosidades: segunda província do Império a abolir a escravidão (1884), lutador José Aldo é natural do estado, São Gabriel da Cachoeira tem a maior população indígena do país.

@@ -1,0 +1,6 @@
+Região: Centro-Oeste | Capital: Brasília (sede de governo, não tem municípios) | População: cerca de 2,57 a 3,09 milhões de habitantes
+Geografia e clima: Planalto Central, menor unidade federativa do país, cerrado, clima tropical com estação seca, Lago Paranoá (artificial), Parque Nacional de Brasília, maior área verde por habitante do país, sem litoral.
+Economia: sede administrativa federal, maior PIB per capita do país, incentivo a indústrias não poluentes (software, cinema, gemologia), agronegócio no entorno, exportação de carne de aves e soja, forte setor terciário e comércio.
+Cultura: cidade planejada (Lúcio Costa e Oscar Niemeyer), Patrimônio da Humanidade pela UNESCO, candangos (migrantes que construíram a cidade, sobretudo nordestinos), culinária com pequi, baru, araticum, arquitetura modernista, migrantes de todas as regiões.
+Turismo e marcos: Congresso Nacional, Catedral de Brasília, Torre de TV, Palácio da Alvorada, Estádio Nacional Mané Garrincha (sede da Copa do Mundo 2014), Autódromo Internacional Nelson Piquet.
+Curiosidades: capital planejada inaugurada em 1960 por Juscelino Kubitschek, cidade polinucleada (regiões administrativas em vez de municípios), maior desigualdade de renda entre as capitais brasileiras, tem uma das maiores favelas do país (Sol Nascente).

@@ -1,0 +1,6 @@
+Região: Sul (único a fazer divisa com outra região) | Capital: Curitiba | População: 11,44 milhões (5º mais populoso)
+Geografia e clima: relevo elevado, Parque Nacional do Iguaçu com as Cataratas e mais de 270 quedas d'água, Serra do Mar, clima subtropical com geadas e raramente neve, araucárias (pinheiro-do-paraná), litoral pequeno (segundo menor do país).
+Economia: quarto maior PIB do Brasil, líder nacional em produção de frango e feijão, segundo maior produtor de soja, milho, trigo, leite e ovos, forte indústria automobilística (Volkswagen, Audi, Renault, Volvo), papel e celulose (Klabin), Usina de Itaipu (segunda maior do mundo em produção de energia).
+Cultura: forte imigração europeia (alemães, italianos, poloneses, ucranianos) que moldou a identidade regional, Oktoberfest de Rolândia, Festival de Teatro de Curitiba (o principal do país), presença indígena caingangue e guarani, Festa de Nossa Senhora do Rocio (maior festa religiosa do Sul).
+Turismo e marcos: Cataratas do Iguaçu e Usina de Itaipu, Parque Estadual de Vila Velha, Cânion Guartelá, Curitiba como destino de turismo urbano.
+Curiosidades: já produziu 60% do café do mundo, estado com o maior número de parques nacionais do Brasil, fronteira tríplice com Paraguai e Argentina.

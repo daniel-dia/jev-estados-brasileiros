@@ -1,0 +1,7 @@
+node_modules
+.nuxt
+.output
+.env
+.vercel
+.env*
+*.mp4

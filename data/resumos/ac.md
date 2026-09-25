@@ -1,0 +1,6 @@
+Região: Norte | Capital: Rio Branco | População: 830.018 habitantes (um dos menos populosos do país)
+Geografia e clima: Amazônia, floresta cobrindo todo o território, relevo de baixo platô, rios Juruá, Purus, Tarauacá e Acre, sem litoral, clima equatorial quente e úmido, fronteira com Bolívia e Peru, ponto onde o sol nasce por último no Brasil.
+Economia: maior produtor nacional de borracha e de castanha, extrativismo vegetal, madeira, pecuária bovina, agricultura de subsistência, isolamento histórico até a Ponte do Abunã (2021) ligar o estado à malha rodoviária, um dos menores PIB per capita do país.
+Cultura: Revolução Acriana (único estado que lutou para ser brasileiro), forte presença nordestina e sulista, Santo Daime, figura de Chico Mendes, seringueiros, culinária com pato no tucupi, pirarucu, farinha de mandioca, povos indígenas de línguas pano, aruak e arawá.
+Turismo e marcos: floresta preservada, geoglifos pré-colombianos ("Stonehenge" arqueológico), Palácio Rio Branco, artesanato com materiais da floresta.
+Curiosidades: teve república independente antes de virar brasileiro, disputa histórica com a Bolívia resolvida pelo Tratado de Petrópolis, mantém fuso próprio por decisão popular, uma das maiores taxas de analfabetismo do país.

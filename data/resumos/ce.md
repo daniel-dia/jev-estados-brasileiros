@@ -1,0 +1,6 @@
+Região: Nordeste | Capital: Fortaleza | População: 8.794.957 habitantes (2022), 8º mais populoso do país
+Geografia e clima: litoral com dunas, falésias e praias famosas (Jericoacoara, Canoa Quebrada), único estado do Nordeste-Sudeste totalmente no sertão, concentra 55% da caatinga do Brasil, clima semiárido no interior e tropical no litoral, açudes Orós e Castanhão, secas históricas recorrentes.
+Economia: 13º PIB do país e 3º do Nordeste, Complexo Industrial e Portuário do Pecém, indústria têxtil, calçadista e alimentícia, forte comércio, fruticultura irrigada de exportação, energia eólica (3º maior produtor do país) e solar.
+Cultura: religiosidade popular forte (Padre Cícero, Juazeiro do Norte), berço de humoristas (Chico Anysio, Renato Aragão, Tiririca), jangada como símbolo do povo, forró (baião de Luiz Gonzaga), literatura de cordel, rendas de bilro, vaquejada, escritores José de Alencar, Rachel de Queiroz, Patativa do Assaré.
+Turismo e marcos: Beach Park (maior parque aquático da América Latina), Estádio Castelão, Theatro José de Alencar, Centro Dragão do Mar, Geoparque Araripe com fósseis do Cretáceo.
+Curiosidades: primeiro estado a abolir a escravidão (1884, "Terra da Luz"), forte tradição de vaquejada e hipismo, Sobral é referência nacional em educação básica.

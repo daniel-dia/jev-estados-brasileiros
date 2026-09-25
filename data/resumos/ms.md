@@ -1,0 +1,6 @@
+Região: Centro-Oeste (sul) | Capital: Campo Grande | População: 2 757 013 (21º mais populoso)
+Geografia e clima: Pantanal a oeste, serras de Bodoquena e Maracaju, Aquífero Guarani (maior porcentagem do país), clima tropical úmido no norte e subtropical no sul, biodiversidade rica no Complexo do Pantanal e Serra da Bodoquena.
+Economia: um dos maiores rebanhos bovinos do Brasil, forte agropecuária (destaque mundial em oleaginosas, quarto maior produtor de cana-de-açúcar), grande exportador de açúcar, soja e carne bovina, maior exportador nacional de celulose (polo em Três Lagoas), mineração de ferro e manganês.
+Cultura: tereré (bebida típica, patrimônio imaterial do estado, maior produtor de erva-mate do Centro-Oeste), rasqueado, guarânia e vanerão, culinária com influência paraguaia (sopa paraguaia, chipa), povos guarani-kaiowá, terena e kadiwéu, forte imigração italiana, espanhola e paraguaia.
+Turismo e marcos: Bonito (ecoturismo, rios cristalinos), Jardim, Complexo do Pantanal (Corumbá, Miranda), fronteira com Paraguai.
+Curiosidades: desmembrado de Mato Grosso em 1977/1979, território comparável à Alemanha, maior estádio universitário da América Latina, sedia Fórmula Truck e Stock Car.

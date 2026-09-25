@@ -1,0 +1,6 @@
+Região: Sudeste | Capital: Vitória | População: 4.102.129 habitantes
+Geografia e clima: litoral com baixada e serras, pico da Bandeira (terceira montanha mais alta do Brasil), Mata Atlântica em todo o território, clima tropical litorâneo úmido, Rio Doce, ilha da Trindade no Atlântico, 73 ilhas na costa.
+Economia: minério de ferro (Vitória é grande porto exportador), siderurgia (ArcelorMittal, Vale), petróleo e gás (2ª maior província petrolífera do país), café (2º maior produtor nacional), celulose (Aracruz), granito e mármore, fabricante de chocolates Garoto.
+Cultura: forte imigração italiana, alemã e pomerana (língua pomerana cooficial em dois municípios), congo capixaba (ritmo de origem indígena e negra), culinária com moqueca e torta capixaba, festas de padroeiros, Festa da Polenta, Vitória Stone Fair (maior feira de rochas ornamentais do mundo).
+Turismo e marcos: Convento da Penha, praias de Guarapari (águas monazíticas terapêuticas), Parque Nacional do Caparaó, dunas de Itaúnas, região serrana (Domingos Martins, Santa Teresa).
+Curiosidades: nome dado por ter sido fundado em domingo de Pentecostes (1535), basquetebolista Anderson Varejão e boxeadores olímpicos nascidos no estado, foi uma das regiões com maior violência letal do país nos anos 2000.

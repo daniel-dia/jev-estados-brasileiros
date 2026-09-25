@@ -1,0 +1,6 @@
+Região: Norte (mais novo estado do Brasil, criado em 1988) | Capital: Palmas (cidade planejada, capital estadual menos populosa do país) | População: mais de 1,5 milhão (24º lugar no ranking nacional)
+Geografia e clima: cerrado predominante, chapadas e Serra Geral, Ilha do Bananal (maior ilha fluvial do mundo) no Rio Araguaia, rio Tocantins cortando o estado, clima tropical de savana com estação seca e chuvosa bem definidas, Jalapão.
+Economia: agronegócio em expansão, maior produtor de soja e arroz da Região Norte, milho, pecuária bovina, comércio ao longo da Rodovia Belém-Brasília, indústria ainda pequena voltada ao consumo próprio, maior IDH e PIB per capita do Norte.
+Cultura: mistura de influências do Centro-Oeste, Nordeste e Norte, culinária com peixe assado, pequi e galinhada caipira, forte religiosidade católica e evangélica, histórico de movimentos separatistas e da Guerrilha do Araguaia.
+Turismo e marcos: Jalapão (dunas, cachoeiras e nascentes), Ilha do Bananal, cidades históricas do ouro como Natividade e Porto Nacional.
+Curiosidades: único estado criado pela Constituição de 1988, pertencia a Goiás, lema em tupi na bandeira, hospeda parte da lendária Guerrilha do Araguaia.

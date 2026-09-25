@@ -1,0 +1,6 @@
+Região: Norte | Capital: Macapá | População: 733.759 habitantes (2022)
+Geografia e clima: extremo norte, único estado (com o RS) com divisa a apenas um outro estado (Pará), fronteira com Guiana Francesa e Suriname, cortado pela Linha do Equador, 73% coberto pela Floresta Amazônica, clima equatorial úmido, 72% do território em conservação ou terras indígenas, Parque Nacional Montanhas do Tumucumaque (maior do país).
+Economia: setor primário pequeno (mandioca, castanha), mineração histórica de manganês (Serra do Navio), extração de ouro, cassiterita e tantalita, comércio e serviço público dominam a economia, pouca industrialização.
+Cultura: Marabaixo (dança afro, patrimônio imaterial do Brasil), Festa de São Tiago em Mazagão Velho (herança de colonos portugueses do Marrocos), Círio de Nazaré em Macapá, comunidades quilombolas e indígenas (Uaçá, Waiãpi), culinária com açaí e camarão no bafo, imigração judaica sefaradita histórica.
+Turismo e marcos: Parque Nacional do Cabo Orange, ponte binacional sobre o Rio Oiapoque para a Guiana Francesa, kitesurfe no Rio Amazonas.
+Curiosidades: estado mais violento do Brasil em homicídios (2022), foi Território Federal até 1988, teve breves "repúblicas" francesas no Cunani, marco zero da Linha do Equador em Macapá.

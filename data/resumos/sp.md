@@ -1,0 +1,6 @@
+Região: Sudeste | Capital: São Paulo | População: cerca de 46 milhões (1º lugar no ranking nacional, ~22% do Brasil)
+Geografia e clima: planalto Atlântico e Serra do Mar, Mata Atlântica e cerrado, rios Tietê e Paraná, sete tipos climáticos (tropical de altitude a subtropical), geadas em Campos do Jordão, litoral com Baixada Santista.
+Economia: maior PIB do país (31% da economia nacional), maior produção mundial de suco de laranja, açúcar e etanol, maior polo industrial, científico e tecnológico do Brasil, indústria automotiva e aeronáutica, B3 (2ª maior bolsa do mundo), maior colégio eleitoral.
+Cultura: forte imigração italiana, japonesa, árabe e nordestina, culinária caipira (interior) e caiçara (litoral), pratos como coxinha e picanha, maior diversidade religiosa e étnica, futebol de grande tradição, Semana de Arte Moderna de 1922.
+Turismo e marcos: cidade de São Paulo (maior metrópole do Brasil), litoral norte e Ilhabela, Vale do Paraíba histórico, estâncias do interior, patrimônios da UNESCO.
+Curiosidades: maior região metropolitana do Brasil (RMSP), primeira cidade e primeiras eleições das Américas (São Vicente), menor taxa de homicídios entre estados grandes, PIB comparável ao de países como Argentina.

@@ -1,0 +1,6 @@
+Região: Sudeste | Capital: Rio de Janeiro | População: mais de 16 milhões (3º lugar no ranking nacional)
+Geografia e clima: bioma Mata Atlântica, Serra do Mar e Serra da Mantiqueira, baixadas e maciços litorâneos, rio Paraíba do Sul, litoral de 636 km com baías de Guanabara, Sepetiba e Ilha Grande, lagoas costeiras, clima tropical com variações de altitude, Pico das Agulhas Negras (2 787 m).
+Economia: maior produtor nacional de petróleo e gás (Bacia de Campos), 2º maior PIB do país, indústria naval, siderúrgica (CSN), petroquímica, automotiva, cana-de-açúcar, laranja, sal marinho, forte polo audiovisual (Grupo Globo), turismo de negócios, sede de Petrobras e BNDES.
+Cultura: carnaval do Rio, samba, maior porcentagem de espíritas do país, culinária carioca, religiosidade diversa (católicos, evangélicos, umbanda), povos indígenas remanescentes, imigração europeia e asiática, identidade carioca vs. fluminense, futebol.
+Turismo e marcos: Cristo Redentor, Pão de Açúcar, praias de Copacabana e Ipanema, Floresta da Tijuca, Paraty colonial, Petrópolis e Teresópolis serranas.
+Curiosidades: 2º maior PIB do Brasil, sede da Biblioteca Nacional, terceiro estado mais populoso, maior carnaval do mundo.

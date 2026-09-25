@@ -1,0 +1,201 @@
+{
+  "palette": {
+    "type": "choice",
+    "instructions": "First picture the single most iconic image of the theme in `state` as it shows up in Brazil — a product, a landscape, a dish, a costume, a festival, a flag, a machine; whichever a Brazilian pictures first. Then spread the probability across the colors that image actually is, strongest color first. Green is the easiest color to over-pick here: give it weight only when the image itself is clearly green — crops, forest, a green flag — never as a default for anything Brazilian.",
+    "criteria": {
+      "black": "Pure black, night, shadow, silhouettes.",
+      "rich_black": "Near-absolute black, ink, void, matte darkness.",
+      "charcoal": "Dark grey, smoke, stone, overcast gloom.",
+      "gray": "Mid grey, concrete, rain, industrial tones.",
+      "silver": "Light grey, steel, chrome, metallic sheen.",
+      "white": "White, snow, clean minimal light.",
+      "ivory": "Warm off-white, bone, porcelain.",
+      "cream": "Off-white, parchment, soft warm light.",
+      "beige": "Sand, tatami, muted neutral warmth.",
+      "brown": "Wood, earth, leather, rustic tones.",
+      "chestnut": "Dark brown, bark, dried blood, old sepia.",
+      "sepia": "Faded photograph, nostalgic yellow-brown.",
+      "rust": "Oxidised metal, burnt orange-red, ruins.",
+      "orange": "Bright orange, sunset, flames, energy.",
+      "tangerine": "Saturated orange, citrus, traffic-cone bright.",
+      "amber": "Warm amber, lantern light, autumn.",
+      "gold": "Gold, treasure, regal ornaments.",
+      "yellow": "Vivid yellow, sunlight, lightning.",
+      "lime": "Yellow-green, fresh grass, acid tones.",
+      "lime_green": "Electric yellow-green, toxic or neon green.",
+      "green": "Green, nature, foliage, plains.",
+      "forest_green": "Deep green, dense forest, military.",
+      "mint": "Pale green, pastel fresh tones.",
+      "teal": "Blue-green, shallow water, cool calm.",
+      "cyan": "Bright cyan, neon, holograms, tech glow.",
+      "sky_blue": "Pale blue, daytime sky, open air.",
+      "baby_blue": "Very pale soft blue, pastel sky, hazy calm.",
+      "blue": "Clear blue, uniforms, water, cool tones.",
+      "navy": "Deep blue, night sea, dark uniforms.",
+      "indigo": "Blue-purple, dusk, mystic tones.",
+      "violet": "Violet, magic effects, twilight.",
+      "purple": "Rich purple, demonic or royal tones.",
+      "royal_purple": "Deep regal purple, velvet, imperial robes.",
+      "lavender": "Pale purple, dreamy pastel.",
+      "magenta": "Hot pink-purple, neon, idol stage lights.",
+      "pink": "Soft pink, cherry blossoms, romance.",
+      "baby_pink": "Very pale pink, blush, pastel rose.",
+      "maroon": "Dark red, dried blood, heavy drama.",
+      "red": "Bright red, blood, fire, danger.",
+      "crimson": "Deep saturated red, arterial blood, banners."
+    }
+  },
+  "destaque": {
+    "type": "choice",
+    "instructions": "Which single Brazilian state (or the Federal District) best embodies the theme in `state`?",
+    "criteria": {
+      "ac": "Acre",
+      "al": "Alagoas",
+      "ap": "Amapá",
+      "am": "Amazonas",
+      "ba": "Bahia",
+      "ce": "Ceará",
+      "df": "Distrito Federal",
+      "es": "Espírito Santo",
+      "go": "Goiás",
+      "ma": "Maranhão",
+      "mt": "Mato Grosso",
+      "ms": "Mato Grosso do Sul",
+      "mg": "Minas Gerais",
+      "pa": "Pará",
+      "pb": "Paraíba",
+      "pr": "Paraná",
+      "pe": "Pernambuco",
+      "pi": "Piauí",
+      "rj": "Rio de Janeiro",
+      "rn": "Rio Grande do Norte",
+      "rs": "Rio Grande do Sul",
+      "ro": "Rondônia",
+      "rr": "Roraima",
+      "sc": "Santa Catarina",
+      "sp": "São Paulo",
+      "se": "Sergipe",
+      "to": "Tocantins"
+    }
+  },
+  "regiao": {
+    "type": "choice",
+    "instructions": "Which region of Brazil is most strongly associated with the theme in `state`?",
+    "criteria": {
+      "norte": "North: AC, AP, AM, PA, RO, RR, TO. Amazon rainforest, rivers.",
+      "nordeste": "Northeast: AL, BA, CE, MA, PB, PE, PI, RN, SE. Coast, sertão, semi-arid.",
+      "centro_oeste": "Center-West: DF, GO, MT, MS. Cerrado, Pantanal, agribusiness, the capital.",
+      "sudeste": "Southeast: ES, MG, RJ, SP. Largest cities, industry, finance.",
+      "sul": "South: PR, RS, SC. Temperate, European immigration, gaúcho culture.",
+      "nenhuma": "The theme has no regional association, or it is not a meaningful theme."
+    }
+  },
+  "ac": {
+    "type": "noul",
+    "instructions": "Is the Brazilian state of Acre strongly associated with the theme in `state`?"
+  },
+  "al": {
+    "type": "noul",
+    "instructions": "Is the Brazilian state of Alagoas strongly associated with the theme in `state`?"
+  },
+  "ap": {
+    "type": "noul",
+    "instructions": "Is the Brazilian state of Amapá strongly associated with the theme in `state`?"
+  },
+  "am": {
+    "type": "noul",
+    "instructions": "Is the Brazilian state of Amazonas strongly associated with the theme in `state`?"
+  },
+  "ba": {
+    "type": "noul",
+    "instructions": "Is the Brazilian state of Bahia strongly associated with the theme in `state`?"
+  },
+  "ce": {
+    "type": "noul",
+    "instructions": "Is the Brazilian state of Ceará strongly associated with the theme in `state`?"
+  },
+  "df": {
+    "type": "noul",
+    "instructions": "Is the Brazilian state of Distrito Federal strongly associated with the theme in `state`?"
+  },
+  "es": {
+    "type": "noul",
+    "instructions": "Is the Brazilian state of Espírito Santo strongly associated with the theme in `state`?"
+  },
+  "go": {
+    "type": "noul",
+    "instructions": "Is the Brazilian state of Goiás strongly associated with the theme in `state`?"
+  },
+  "ma": {
+    "type": "noul",
+    "instructions": "Is the Brazilian state of Maranhão strongly associated with the theme in `state`?"
+  },
+  "mt": {
+    "type": "noul",
+    "instructions": "Is the Brazilian state of Mato Grosso strongly associated with the theme in `state`?"
+  },
+  "ms": {
+    "type": "noul",
+    "instructions": "Is the Brazilian state of Mato Grosso do Sul strongly associated with the theme in `state`?"
+  },
+  "mg": {
+    "type": "noul",
+    "instructions": "Is the Brazilian state of Minas Gerais strongly associated with the theme in `state`?"
+  },
+  "pa": {
+    "type": "noul",
+    "instructions": "Is the Brazilian state of Pará strongly associated with the theme in `state`?"
+  },
+  "pb": {
+    "type": "noul",
+    "instructions": "Is the Brazilian state of Paraíba strongly associated with the theme in `state`?"
+  },
+  "pr": {
+    "type": "noul",
+    "instructions": "Is the Brazilian state of Paraná strongly associated with the theme in `state`?"
+  },
+  "pe": {
+    "type": "noul",
+    "instructions": "Is the Brazilian state of Pernambuco strongly associated with the theme in `state`?"
+  },
+  "pi": {
+    "type": "noul",
+    "instructions": "Is the Brazilian state of Piauí strongly associated with the theme in `state`?"
+  },
+  "rj": {
+    "type": "noul",
+    "instructions": "Is the Brazilian state of Rio de Janeiro strongly associated with the theme in `state`?"
+  },
+  "rn": {
+    "type": "noul",
+    "instructions": "Is the Brazilian state of Rio Grande do Norte strongly associated with the theme in `state`?"
+  },
+  "rs": {
+    "type": "noul",
+    "instructions": "Is the Brazilian state of Rio Grande do Sul strongly associated with the theme in `state`?"
+  },
+  "ro": {
+    "type": "noul",
+    "instructions": "Is the Brazilian state of Rondônia strongly associated with the theme in `state`?"
+  },
+  "rr": {
+    "type": "noul",
+    "instructions": "Is the Brazilian state of Roraima strongly associated with the theme in `state`?"
+  },
+  "sc": {
+    "type": "noul",
+    "instructions": "Is the Brazilian state of Santa Catarina strongly associated with the theme in `state`?"
+  },
+  "sp": {
+    "type": "noul",
+    "instructions": "Is the Brazilian state of São Paulo strongly associated with the theme in `state`?"
+  },
+  "se": {
+    "type": "noul",
+    "instructions": "Is the Brazilian state of Sergipe strongly associated with the theme in `state`?"
+  },
+  "to": {
+    "type": "noul",
+    "instructions": "Is the Brazilian state of Tocantins strongly associated with the theme in `state`?"
+  }
+}

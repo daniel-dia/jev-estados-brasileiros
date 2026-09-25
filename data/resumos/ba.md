@@ -1,0 +1,6 @@
+Região: Nordeste | Capital: Salvador | População: 14.141.626 habitantes (2022), 4ª mais populosa do Brasil
+Geografia e clima: litoral mais extenso do país, Chapada Diamantina, Recôncavo Baiano, Rio São Francisco, divisa com oito estados (recorde nacional), clima de litorâneo úmido a semiárido, biomas Mata Atlântica, caatinga e cerrado.
+Economia: 7ª maior economia do país, Polo Petroquímico de Camaçari (maior complexo industrial do Hemisfério Sul), maior produtor nacional de coco, manga, guaraná, sisal e mamona, 2º de cacau e algodão, petróleo e gás, mineração, forte turismo (litoral mais procurado do Brasil).
+Cultura: maior influência africana do país (candomblé, capoeira, acarajé), maior população quilombola do Brasil, Carnaval de Salvador (maior carnaval de rua do mundo, trio elétrico), axé music, samba de roda, música (Caetano Veloso, Gilberto Gil, Caymmi), literatura de Jorge Amado, culinária afro com dendê (moqueca, vatapá, caruru).
+Turismo e marcos: Pelourinho, Chapada Diamantina, Itaparica, Morro de São Paulo, Costa do Sauípe, Porto Seguro (local do "descobrimento").
+Curiosidades: primeira capital do Brasil Colônia (Salvador, 214 anos), berço da Conjuração Baiana e da Revolta dos Malês, segundo estado com maior taxa de homicídios do país, terra de sete campeões mundiais de futebol.

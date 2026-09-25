@@ -1,0 +1,87 @@
+@import "tailwindcss";
+@import "@nuxt/ui";
+
+.pop-enter-active { transition: opacity .35s ease, transform .35s ease; }
+.pop-leave-active { transition: opacity .15s ease; position: absolute; }
+.pop-enter-from { opacity: 0; transform: translateY(12px); }
+.pop-leave-to { opacity: 0; }
+
+@keyframes pop { from { opacity: 0; transform: scale(.85); } to { opacity: 1; transform: scale(1); } }
+.animate-pop { animation: pop .3s ease-out backwards; }
+
+/* treemap: rótulo de tamanho fixo, sem a variação do Unovis */
+.treemap {
+  --vis-treemap-label-font-size: 11px;
+  --vis-treemap-label-font-weight: 400;
+  --vis-treemap-label-text-color: #171717;   /* usado em tile claro */
+  --vis-treemap-label-text-color-light: #fff; /* usado em tile escuro */
+  --vis-treemap-label-opacity: 1;
+  --vis-treemap-tile-stroke-width: 0px;
+}
+
+.treemap {
+  --vis-tooltip-background-color: #ffffff;
+  --vis-tooltip-text-color: #171717;
+  --vis-tooltip-border-color: #e5e5e5;
+  --vis-tooltip-padding: 6px 10px;
+  --vis-tooltip-border-radius: 6px;
+  --vis-tooltip-shadow-color: rgba(0, 0, 0, 0.12);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .treemap {
+  --vis-tooltip-background-color: #171717;
+  --vis-tooltip-text-color: #fafafa;
+    --vis-tooltip-border-color: #404040;
+  }
+}
+
+/* só o tile dominante (o primeiro rótulo) fica grande */
+.treemap g[class*="tile-group"] ~ g[class*="tile-group"] text {
+  font-size: var(--vis-treemap-label-font-size) !important;
+}
+
+/* fundo levemente tingido com a 2ª cor do tema */
+.tinted {
+  background: radial-gradient(
+    125% 110% at 42% 38%,
+    #ffffff 30%,
+    color-mix(in oklab, var(--tint, #ffffff) 28%, #ffffff) 100%
+  );
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .tinted {
+    background: radial-gradient(
+      125% 110% at 42% 38%,
+      #0a0a0a 30%,
+      color-mix(in oklab, var(--tint, #0a0a0a) 36%, #0a0a0a) 100%
+    );
+  }
+}
+
+/* título na cor primária do tema, escurecida o bastante pra ler */
+.title-tint {
+  color: color-mix(in oklab, var(--primary, #171717) 78%, #000000);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .title-tint {
+    color: color-mix(in oklab, var(--primary, #fafafa) 78%, #ffffff);
+  }
+}
+
+/* mapa: estados em cinza até o Jev responder, depois na cor de destaque */
+.map { --map-base: #e5e5e5; }
+.map .state {
+  fill: var(--map-base);
+  stroke: #ffffff;
+  stroke-width: 0.8;
+  transition: fill .7s ease-out, opacity .2s;
+}
+.map .state:hover { opacity: .8; }
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .map { --map-base: #262626; }
+  :root:not([data-theme="light"]) .map .state { stroke: #0a0a0a; }
+}
