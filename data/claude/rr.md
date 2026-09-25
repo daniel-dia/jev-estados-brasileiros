@@ -1,0 +1,11 @@
+Folclore e lendas: Makunaima (herói-criador macuxi e taurepang, fonte do "Macunaíma" de Mário de Andrade), árvore Wazaká cortada por Makunaima cujo toco seria o Monte Roraima, Canaimé (espírito vingador macuxi), Piaimã (gigante), xapiri e yãkoana dos ianomâmi.
+Festas populares: Boa Vista Junina, parixara (dança indígena macuxi e wapichana), festas de comunidades indígenas, festejos de migrantes nordestinos.
+Música e dança: movimento Roraimeira (Eliakin Rufino, Zeca Preto, Neuber Uchôa), parixara, forró de migrantes maranhenses, influência venezuelana e guianense na fronteira.
+Artes e literatura: "Macunaíma" inspirado nos relatos de Koch-Grünberg ("Do Roraima ao Orinoco"), cestaria e cerâmica indígenas, planta radial em leque de Boa Vista, Monumento ao Garimpeiro.
+Culinária: paçoca de carne seca com banana, tambaqui, matrinxã, pirarucu, caxiri e pajuaru (bebidas indígenas fermentadas de mandioca), farinha d'água, tucupi, arepas e pratos venezuelanos.
+Religiosidade: xamanismo ianomâmi, missionários da Consolata junto aos macuxi, crescimento evangélico, Catedral Cristo Redentor.
+História: Forte São Joaquim do Rio Branco (1775), fazendas nacionais (São Marcos, São Bento, São José), Questão do Pirara com a Inglaterra (arbitragem de 1904), Território Federal do Rio Branco (1943), renomeado Roraima (1962), estado em 1988, corrida do ouro em terras ianomâmi nos anos 1980, Massacre de Haximu (1993), demarcação da Raposa Serra do Sol (homologada 2005, julgada no STF em 2009), crise humanitária ianomâmi (2023), êxodo venezuelano e Operação Acolhida (Pacaraima).
+Política: território governado por nomeados federais até 1991, conflitos entre arrozeiros, garimpeiros e indígenas, Davi Kopenawa, Joênia Wapichana (primeira mulher indígena eleita deputada federal).
+Esportes: Baré, Rio Negro, São Raimundo, Atlético Roraima, pouca expressão nacional.
+Personalidades: Davi Kopenawa, Joênia Wapichana, Eliakin Rufino, Zeca Preto, Neuber Uchôa, Theodor Koch-Grünberg.
+Identidade: roraimense, apelido "macuxi" para os naturais, "Terra de Makunaima", lavrado, estado mais ao norte, população majoritariamente migrante (maranhenses, gaúchos), convivência com espanhol e inglês na fronteira (Santa Elena de Uairén, Lethem), fronteira do garimpo.

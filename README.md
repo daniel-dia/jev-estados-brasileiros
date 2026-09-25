@@ -19,15 +19,16 @@ o Jev não escreve texto, ele recebe um *state* e um conjunto de perguntas tipad
 | Modo | O que vai no `state` | Tokens de entrada |
 | --- | --- | --- |
 | **JEV puro** | `Theme: <tema>` — só isso. O que o Jev sabe dos estados vem dele mesmo. | ~2,5k |
-| **Com contexto** | O tema + um resumo de cada um dos 27 estados, tirado da Wikipédia. | ~12,7k |
+| **Com contexto** | O tema + um perfil de cada um dos 27 estados: resumo da Wikipédia + cultura, folclore, história e política escritos pelo Claude. | ~32k |
 
-Os dois respondem em ~0,6 s. O contexto aparece onde o conhecimento geral é raso ou desatualizado:
+O puro responde em ~0,6 s, o com contexto em ~0,8 s. O contexto aparece onde o conhecimento geral é raso ou impreciso:
 
 | Tema | JEV puro (top 3) | Com contexto (top 3) |
 | --- | --- | --- |
 | energia eólica | CE, RN, RS | **RN**, CE, PI |
-| chimarrão | RS, PR, SC | RS, MS, MT |
-| petróleo | RJ, RN, ES | RJ, RN, ES |
+| cangaço | CE, PE, RN | **PE**, CE, RN |
+| boi-bumbá | MA, PA, AP | MA, **AM**, RO |
+| imigração alemã | RS, SC, PR | **SC**, RS, PR |
 
 ### De onde vem o contexto
 
@@ -35,7 +36,11 @@ Os dois respondem em ~0,6 s. O contexto aparece onde o conhecimento geral é ras
    português como texto → [`data/wikipedia/`](data/wikipedia) (~273 mil palavras).
 2. O Claude leu os 27 artigos e escreveu um resumo de ~150–190 palavras de cada um, num formato fixo
    (região, geografia e clima, economia, cultura, turismo, curiosidades) → [`data/resumos/`](data/resumos).
-3. Os resumos são juntados em [`server/contexts.json`](server/contexts.json), que a rota importa.
+3. O Claude também escreveu, do próprio conhecimento, um perfil de ~230–300 palavras de cada estado com o que a
+   Wikipédia resumida não cobre: folclore e lendas, festas, música e dança, artes, culinária, religiosidade,
+   história, política, esportes, personalidades e identidade → [`data/claude/`](data/claude).
+4. [`data/build-contexts.mjs`](data/build-contexts.mjs) junta as duas fontes em
+   [`server/contexts.json`](server/contexts.json) (~12 mil palavras), que a rota importa.
 
 ## As perguntas
 
@@ -106,8 +111,8 @@ app/app.vue                  UI: busca com debounce, mapa SVG, ranking, treemaps
 app/assets/css/main.css      fundo tingido, cores do mapa, variáveis do treemap
 server/api/analyze.post.ts   { tema, modo } → state → POST /v1/systemone
 server/questions.json        27 nouls + palette + destaque + regiao
-server/contexts.json         os 27 resumos usados no modo contexto
-data/                        artigos da Wikipédia e resumos que geraram o contexto
+server/contexts.json         os 27 perfis (Wikipédia + Claude) usados no modo contexto
+data/                        artigos da Wikipédia, resumos, perfis do Claude e os scripts que geram o contexto
 check.mjs                    assert ponta a ponta contra a API
 ```
 
@@ -115,7 +120,7 @@ check.mjs                    assert ponta a ponta contra a API
 
 Feito por [Daniel Santos](https://github.com/daniel-dia). Classificação pelo [Jev](https://typesafe.ai).
 Mapa: [@svg-maps/brazil](https://github.com/VictorCazanave/svg-maps) (CC BY 4.0).
-Textos em `data/wikipedia` e resumos derivados: [Wikipédia](https://pt.wikipedia.org) (CC BY-SA 4.0).
+Textos em `data/wikipedia` e resumos em `data/resumos`: [Wikipédia](https://pt.wikipedia.org) (CC BY-SA 4.0).
 
 ## Licença
 

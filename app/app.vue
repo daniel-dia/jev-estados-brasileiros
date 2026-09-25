@@ -186,7 +186,7 @@ const hover = ref('')
           <p class="text-xs text-neutral-400 -mt-3">
             {{ modo === 'puro'
               ? 'Só o tema vai pro Jev — o que ele sabe dos estados vem dele mesmo.'
-              : 'O tema vai junto com um resumo de cada estado, tirado da Wikipédia.' }}
+              : 'O tema vai junto com um perfil de cada estado: resumo da Wikipédia + cultura, folclore, história e política escritos pelo Claude.' }}
           </p>
           <p v-if="error" class="text-sm text-red-500">{{ error }}</p>
         </header>

@@ -29,9 +29,10 @@ There is no test suite or linter; `check.mjs` is the check.
   palette's first non-pale color, mixed in **relative** to the min/max noul of that query (absolute noul levels
   vary a lot between themes). The `COLORS` map must keep the same keys as `palette.criteria`.
 - Context pipeline: `data/wikipedia/<uf>.md` (raw pt.wikipedia plain text) → `data/resumos/<uf>.md`
-  (summaries written by Claude, fixed format, ~150–190 words) → `server/contexts.json` (what the server imports).
-  After editing a summary, rebuild the JSON:
-  `node -e 'const fs=require("fs");const o={};for(const f of fs.readdirSync("data/resumos").sort())o[f.slice(0,2)]=fs.readFileSync("data/resumos/"+f,"utf8").trim();fs.writeFileSync("server/contexts.json",JSON.stringify(o,null,2)+"\n")'`
+  (Claude's summary of the article, ~150–190 words) + `data/claude/<uf>.md` (Claude-written profile from its own
+  knowledge: folklore, festivals, music, arts, food, religion, history, politics, sports, people, identity;
+  ~230–300 words, must not repeat the resumo) → `node data/build-contexts.mjs` → `server/contexts.json`
+  (what the server imports, ~32k Jev input tokens). Re-run the build after editing either folder.
 
 The noul wording ("Is the Brazilian state of X strongly associated with the theme in `state`?") was picked by
 comparing phrasings on agropecuária/praia/carnaval/tecnologia; stricter wordings flattened obvious answers
