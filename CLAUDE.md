@@ -21,7 +21,7 @@ There is no test suite or linter; `check.mjs` is the check.
 ## How it fits together
 
 - `server/questions.json` — every question sent to Jev (`api.typesafe.ai/v1/systemone`) in **one** request:
-  27 `noul` (keyed by lowercase UF, one per state), `palette` (choice over the 40 colors shared with
+  27 `noul` (keyed by lowercase UF, one per state), `palette` (choice over 37 colors — anime-stat's 40 minus black, rich_black and white, which blend into the UI — shared with
   anime-stat), `destaque` (choice over the 27 UFs), `regiao` (choice over the 5 regions + `nenhuma`).
 - `server/api/analyze.post.ts` — `{ tema, modo }` → Jev. `modo: 'puro'` sends only `Theme: <tema>`;
   `modo: 'contexto'` appends every summary from `server/contexts.json` to the `state`. Has an in-memory per-IP rate limit.

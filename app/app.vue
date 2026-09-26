@@ -51,12 +51,9 @@ const ranked = (probs: Record<string, number> = {}, n = 5) =>
   Object.entries(probs).filter(([, p]) => p > 0.01).sort((a, b) => b[1] - a[1]).slice(0, n)
 
 const COLORS: Record<string, string> = {
-  black: '#111827',
-  rich_black: '#0d0d0d',
   charcoal: '#374151',
   gray: '#6b7280',
   silver: '#cbd5e1',
-  white: '#f8fafc',
   ivory: '#edeae3',
   cream: '#fef3c7',
   beige: '#e7d6b8',
@@ -93,7 +90,7 @@ const COLORS: Record<string, string> = {
   crimson: '#c8102e',
 }
 // claras demais pra destacar um estado contra o fundo neutro do mapa
-const PALE = ['white', 'ivory', 'cream', 'silver', 'beige', 'baby_pink', 'baby_blue', 'lavender', 'mint']
+const PALE = ['ivory', 'cream', 'silver', 'beige', 'baby_pink', 'baby_blue', 'lavender', 'mint']
 
 // fallback mono ramp, usada até o Jev devolver a paleta do tema
 const STEPS = ['#171717', '#525252', '#737373', '#a3a3a3', '#d4d4d4']

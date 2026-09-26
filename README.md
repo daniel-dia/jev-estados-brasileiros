@@ -55,7 +55,7 @@ Tudo que o Jev responde está em [`server/questions.json`](server/questions.json
 | Pergunta | Tipo | Vira |
 | --- | --- | --- |
 | `ac` … `to` | 27 × `noul` | A intensidade de cada estado no mapa, e o ranking "Mais combinam" |
-| `palette` | `choice` (40 cores) | A barra de cores sob o input, o fundo, o título e a cor de destaque do mapa |
+| `palette` | `choice` (37 cores: as 40 do anime-stats menos preto e branco, que se confundem com a interface) | A barra de cores sob o input, o fundo, o título e a cor de destaque do mapa |
 | `destaque` | `choice` (27 estados) | Treemap do estado que melhor encarna o tema |
 | `regiao` | `choice` (5 regiões + nenhuma) | Treemap da região |
 
