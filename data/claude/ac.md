@@ -10,3 +10,4 @@ Esportes: Rio Branco Futebol Clube, Atlético Acreano, Estádio Arena da Florest
 Personalidades: Chico Mendes, Marina Silva.
 Identidade: acreano ou acriano, fuso horário UTC-5, isolamento, identidade seringueira e da floresta, descendentes de nordestinos, fronteira com Bolívia e Peru.
 Memes e internet: teoria "o Acre não existe" (Orkut, Desciclopédia), "você conhece alguém do Acre?", acreanos seriam atores pagos, #AcreExiste, "no Acre ainda é ontem", dinossauros ainda vivos na floresta, piada de exílio "vai pro Acre".
+Zoeiras e curiosidades: "o Acre não existe", dinossauros (o fóssil do Purussaurus, jacaré gigante, é real).

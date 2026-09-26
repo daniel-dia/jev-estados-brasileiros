@@ -10,3 +10,4 @@ Esportes: River Atlético Clube (Galo), Flamengo-PI, estádio Albertão, Sarah M
 Personalidades: Torquato Neto (tropicalismo), João Cláudio Moreno (humorista).
 Identidade: piauiense, teresinense, Teresina "Cidade Verde" e "Chapada do Corisco" (raios), fama de humoristas, capital entre dois rios.
 Memes e internet: "o Piauí existe?" e "ninguém conhece alguém do Piauí", Whindersson Nunes (um dos maiores youtubers do Brasil, vídeos com sotaque piauiense), calor de Teresina ("sucursal do inferno", "o sol nasce pra todos, em Teresina ele desce"), "B-R-O bró" como meme do calor de fim de ano, "o homem americano surgiu no Piauí" (Serra da Capivara), cajuína.
+Zoeiras e curiosidades: Teresina "chapa quente", menor litoral do Nordeste (66 km), cajuína.

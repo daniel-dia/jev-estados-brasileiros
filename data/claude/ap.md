@@ -10,3 +10,4 @@ Esportes: Estádio Zerão (Milton Corrêa) dividido pela Linha do Equador, Ypira
 Personalidades: Sacaca (curandeiro popular), Cabralzinho, Tia Biló (marabaixo), Patrícia Bastos.
 Identidade: amapaense, tucujus (etnia que dá identidade ao estado), "Meio do Mundo", fronteira com Oiapoque, isolamento rodoviário, vida ribeirinha, forte laço com Belém.
 Memes e internet: "o Amapá existe?" (primo do meme do Acre), confusão Amapá/Macapá, capital sem estrada ligando ao resto do país, apagão de 2020 com mais de 20 dias sem luz, gol que atravessa hemisférios no Zerão, pé em cada hemisfério no Marco Zero.
+Zoeiras e curiosidades: Estádio Zerão, onde a linha do Equador divide o campo e cada time joga num hemisfério, "Amapá existe?".

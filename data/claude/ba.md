@@ -10,3 +10,4 @@ Esportes: Bahia (campeão brasileiro 1959 e 1988), Vitória, clássico Ba-Vi, Ar
 Personalidades: Milton Santos, Anísio Teixeira, Wagner Moura, Lázaro Ramos, Mestre Bimba, Mestre Pastinha.
 Identidade: baiano, soteropolitano, "oxente", "painho/mainha", fala lenta e cantada, estereótipo de preguiça e festa, "Boa Terra", "baiano" como apelido genérico de nordestino em São Paulo.
 Memes e internet: "baiano não nasce, estreia", "barril dobrado", "Bahêa, minha porra", zoeira da preguiça baiana, Rebolation, "Lepo Lepo" (Psirico), Wagner Moura e Capitão Nascimento ("pede pra sair"), Ba-Vi zoando rebaixamentos.
+Zoeiras e curiosidades: "oxe", tempo baiano (festa marcada pras 20h começa às 23h), axé, acarajé "quente ou fria?".

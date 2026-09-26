@@ -10,3 +10,4 @@ Esportes: Rio Branco AC, Vitória FC, Estádio Kleber Andrade, futebol de areia,
 Personalidades: Danuza Leão, Luz del Fuego, Carlos Imperial, José de Anchieta.
 Identidade: capixaba (do tupi "roça"), "o estado esquecido do Sudeste", sotaque intermediário entre mineiro e carioca sem chiado, forte identidade de descendentes europeus nas montanhas.
 Memes e internet: "o Espírito Santo existe?", confusão com Bahia, Minas ou Rio, Vitória x Vila Velha (quem é a capital), Roberto Carlos que só "acorda" em dezembro, rivalidade da moqueca capixaba x baiana, gírias "pocar" e "paia".
+Zoeiras e curiosidades: ninguém lembra que é Sudeste, "moqueca é capixaba, o resto é peixada".

@@ -10,3 +10,4 @@ Esportes: Goiás EC, Vila Nova, Atlético Goianiense, Estádio Serra Dourada, ro
 Personalidades: Amado Batista, Siron Franco, Marília Mendonça.
 Identidade: goiano, sotaque caipira com "r" retroflexo, "uai", "trem", "ocê", "custoso", pit dog, estereótipo agro e de caminhonete, "capital do sertanejo".
 Memes e internet: aviso "não morda o pequi" (espinhos), sofrência e "modão" de bar, Marília Mendonça ("rainha da sofrência") e memes de chifre, goiano confundido com mineiro pelo "uai", "r" puxado ("porrta"), tiozão de Hilux e chapéu de caubói, ETs e cristais em Alto Paraíso.
+Zoeiras e curiosidades: sertanejo universitário, pequi (morder com força ensina da pior forma: tem espinhos).

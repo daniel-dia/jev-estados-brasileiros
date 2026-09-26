@@ -10,3 +10,4 @@ Esportes: Re-Pa (Remo × Paysandu), Paysandu vencendo o Boca na Bombonera (2003)
 Personalidades: Dira Paes, Waldemar Henrique.
 Identidade: paraense, "papa-chibé", "égua!", "pai d'égua", "mana/mano", Belém "Cidade das Mangueiras".
 Memes e internet: "Égua, mano!" em vídeos de sotaque, polêmica do açaí (paraense toma com peixe e farinha, sem açúcar), Gaby Amarantos "Beyoncé do Pará", Joelma e Chimbinha ("Voando pro Pará"), gargalhada da Fafá de Belém, chuva de toda tarde em Belém ("marca encontro pra depois da chuva").
+Zoeiras e curiosidades: açaí salgado com peixe frito e farinha (com granola é ofensa), chuva todo dia às 14h.

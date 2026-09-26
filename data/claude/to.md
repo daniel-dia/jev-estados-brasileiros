@@ -10,3 +10,4 @@ Esportes: Palmas, Gurupi, Tocantinópolis, pesca esportiva do tucunaré, rafting
 Personalidades: Siqueira Campos, Teotônio Segurado, Padre Josimo, Juraildes da Cruz.
 Identidade: tocantinense, "estado caçula", ex-norte goiano, sotaque goiano/caipira no centro-sul e nordestino no Bico do Papagaio.
 Memes e internet: "Tocantins é Goiás?", "Tocantins existe?" na linha do "Acre não existe", Palmas com calor de 40 graus e avenidas largas vazias, Jalapão e fervedouros virais no Instagram, sotaque goiano ("uai", "trem").
+Zoeiras e curiosidades: estado mais novo, cara de SimCity (Palmas planejada do zero), Jalapão, capim dourado.

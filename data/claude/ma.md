@@ -10,3 +10,4 @@ Esportes: Castelão de São Luís, kitesurfe nos Lençóis, MAC.
 Personalidades: José Sarney, Alcione, Ferreira Gullar, Gonçalves Dias, Zeca Baleiro, João do Vale, Maria Firmina dos Reis, Flávio Dino.
 Identidade: maranhense, ludovicense, "Ilha do Amor", uso do "tu" com concordância, fama de "português mais correto do Brasil".
 Memes e internet: Guaraná Jesus (refrigerante cor-de-rosa, zoeira de que só existe no Maranhão), "Jamaica Brasileira" e radiolas de reggae, "Maranhão é Norte ou Nordeste?", piadas de "o Maranhão é dos Sarney", memes do Flávio Dino, Lençóis Maranhenses "parece deserto mas tem lagoa".
+Zoeiras e curiosidades: "Jamaica brasileira" com reggae nos paredões, Guaraná Jesus (rosa).

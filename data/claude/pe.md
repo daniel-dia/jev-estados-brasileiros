@@ -10,3 +10,4 @@ Esportes: Sport (Leão, campeão brasileiro 1987, Copa do Brasil 2008), Santa Cr
 Personalidades: Paulo Freire, Chico Science.
 Identidade: pernambucano, recifense, "Leão do Norte", "oxe", "visse", "arretado", "painho/mainha", bairrismo ("Pernambuco é um país"), Recife "Veneza Brasileira" e "Manguetown".
 Memes e internet: Gil do Vigor (BBB21, "tchaki tchaki"), "Garçom" de Reginaldo Rossi (hino brega de bar), bolo de rolo "não é rocambole" (lei estadual), tubarões de Boa Viagem, Galo da Madrugada "maior bloco do mundo" (Guinness), João Gomes e o piseiro.
+Zoeiras e curiosidades: pernambucano acha que tudo foi inventado lá, "Recife é o centro do mundo", frevo, bolo de rolo, tubarão em Boa Viagem.

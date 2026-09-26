@@ -10,3 +10,4 @@ Esportes: Athletico Paranaense (Furacão, Brasileiro 2001), Coritiba (Coxa, Bras
 Personalidades: Michel Teló.
 Identidade: paranaense, curitibano, "leite quente" (e final pronunciado), "piá", "guria", "vina" (salsicha), "penal" (estojo), "daí" como conectivo, curitibano reservado e frio, "capital ecológica", "polaco".
 Memes e internet: "Evidências" de Chitãozinho & Xororó (hino do karaokê, meme "e nessa loucura"), Curitiba "quatro estações no mesmo dia", curitibano que não cumprimenta no elevador, capivaras do Barigui, "República de Curitiba", disputa "Paraná é Sul?" com gaúchos e catarinenses, Athletico "com H", compras em Foz/Paraguai.
+Zoeiras e curiosidades: "piá", "vina" (salsicha), "penal" (estojo), Curitiba fria, povo fechado, "leitE quentE".

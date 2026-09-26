@@ -10,3 +10,4 @@ Esportes: Cuiabá Esporte Clube (Dourado, Série A), Arena Pantanal (Copa 2014),
 Personalidades: Rondon, Manoel de Barros, Gilmar Mendes (Diamantino), Raoni Metuktire.
 Identidade: mato-grossense, cuiabano "de tchapa e cruz", cuiabanês (tchuva, djente), "pau-rodado" (forasteiro), "capital do agronegócio".
 Memes e internet: calor de Cuiabá ("filial do inferno", ovo fritando no asfalto), confusão eterna entre Mato Grosso e Mato Grosso do Sul, sotaque cuiabano ("Tchá por Deus!"), zoeira do agro (Hilux, chapéu, soja até onde a vista alcança), "pau-rodado", "Ai, Ai, Ai" da Vanessa da Mata.
+Zoeiras e curiosidades: Cuiabá "porta do inferno" com 45°C, soja até onde a vista alcança.

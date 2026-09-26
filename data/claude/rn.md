@@ -10,3 +10,4 @@ Esportes: Clássico-Rei (ABC x América), Arena das Dunas, Oscar Schmidt, surfe 
 Personalidades: Câmara Cascudo, Nísia Floresta, Café Filho, Alzira Soriano, Oscar Schmidt, Ítalo Ferreira, Roberta Sá.
 Identidade: potiguar ("comedor de camarão" em tupi), apelido "papa-jerimum", Natal "Cidade do Sol", sotaque nordestino, "arretado", "oxe".
 Memes e internet: "papa-jerimum", confusão Rio Grande do Norte x Rio Grande do Sul, Ítalo Ferreira que aprendeu a surfar em tampa de isopor, Mossoró que expulsou Lampião, Cajueiro de Pirangi "maior do mundo".
+Zoeiras e curiosidades: maior cajueiro do mundo, buggy nas dunas "com emoção ou sem emoção?".

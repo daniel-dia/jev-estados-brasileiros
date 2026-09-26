@@ -10,3 +10,4 @@ Esportes: Gre-Nal (Grêmio x Internacional), Ronaldinho Gaúcho, Taffarel, Dunga
 Personalidades: Getúlio, Jango, Elis Regina, Mario Quintana, Bento Gonçalves, Gisele Bündchen, Xuxa, Teixeirinha.
 Identidade: gaúcho, sul-rio-grandense, "bah", "tchê", "tri", "bagual", "cacetinho", "bergamota", "pila", "tu" com verbo na 3ª pessoa, tradicionalismo (CTG, MTG), separatismo.
 Memes e internet: "bah, tchê", "tri legal", "O Sul é o meu país", hino gaúcho cantado em qualquer evento, chimarrão até na praia, "frio de renguear cusco", Grêmio "imortal", Inter rebaixado em 2016.
+Zoeiras e curiosidades: "bah, tchê", chimarrão, churrasco, gaúcho que acha que é outro país.

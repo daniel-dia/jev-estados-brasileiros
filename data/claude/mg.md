@@ -10,3 +10,4 @@ Esportes: Atlético Mineiro (Galo, Libertadores 2013), Cruzeiro (Raposa, Liberta
 Personalidades: Pelé (Três Corações), Santos Dumont, Chico Xavier.
 Identidade: mineiro, "uai", "trem", "sô", "nó", mineirês ("ondcotô"), desconfiado e discreto, "Minas são muitas".
 Memes e internet: 7 a 1 da Alemanha no Mineirão (Copa 2014), "mineiro não tem mar" (invasão de Guarapari e Porto Seguro), pão de queijo vs "biscoito de queijo", "trem" servindo pra tudo, "uai sô" em vídeos de sotaque, mineiro que "dá pista em vez de falar", Cruzeiro rebaixado (2019) e zoeira Galo × Raposa.
+Zoeiras e curiosidades: "uai", "trem", pão de queijo, mineiro come quieto, desconfiado, sem mar e lotando as praias do ES.

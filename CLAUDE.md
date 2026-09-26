@@ -31,7 +31,7 @@ There is no test suite or linter; `check.mjs` is the check.
 - Context pipeline: `data/wikipedia/<uf>.md` (raw pt.wikipedia plain text) → `data/resumos/<uf>.md`
   (Claude's summary of the article, ~150–190 words) + `data/claude/<uf>.md` (Claude-written profile from its own
   knowledge: 12 fixed lines — folklore, festivals, music, arts, food, religion, history, politics, sports, people,
-  identity, memes; ≤265 words, must not repeat the resumo) → `node data/build-contexts.mjs` → `server/contexts.json`
+  identity, memes, zoeiras (the last one from a list the user wrote); ~265–300 words, must not repeat the resumo) → `node data/build-contexts.mjs` → `server/contexts.json`
   (what the server imports, ~30k Jev input tokens). Re-run the build after editing either folder. Jev rejects input
   over ~34k tokens with `max_tokens_exceeded`; the build script throws above 90k context chars to keep headroom.
 

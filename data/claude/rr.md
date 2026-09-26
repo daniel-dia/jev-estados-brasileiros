@@ -10,3 +10,4 @@ Esportes: Baré, Rio Negro, São Raimundo, Atlético Roraima, pouca expressão n
 Personalidades: Davi Kopenawa, Joênia Wapichana, Eliakin Rufino, Theodor Koch-Grünberg.
 Identidade: roraimense, apelido "macuxi", "Terra de Makunaima", lavrado, estado mais ao norte, população majoritariamente migrante.
 Memes e internet: confusão Roraima x Rondônia, "Roraima existe?" na linha do "Acre não existe", estado "esquecido" no mapa, Boa Vista acima da linha do Equador, Monte Roraima como "mundo perdido", "mais perto da Venezuela que de Brasília".
+Zoeiras e curiosidades: Boa Vista é a única capital inteira acima da linha do Equador (Macapá é cortada por ela), Monte Roraima, ninguém sabe apontar no mapa.

@@ -10,3 +10,4 @@ Esportes: Ceará Sporting, Fortaleza EC, Clássico-Rei, vaquejada, kitesurfe no 
 Personalidades: Dom Hélder Câmara, José Wilker, Tom Cavalcante, Falcão, Clóvis Beviláqua.
 Identidade: cearense, alencarino, "Ceará moleque" (humor e irreverência), "arre égua", "macho", "abestado", "mah", "cabeça-chata", jangadeiro, retirante.
 Memes e internet: Ceará "terra do humor" (Chico Anysio, Didi "ô psit", Tiririca "pior que tá não fica"), Seu Lunga, "arre égua" em figurinhas, Wesley Safadão e memes de camarote e "ar-condicionado no 15", Vozão x Leão no Clássico-Rei, quinta do caranguejo.
+Zoeiras e curiosidades: fábrica de humorista (Renato Aragão, Tom Cavalcante), o povo que vaiou o sol.

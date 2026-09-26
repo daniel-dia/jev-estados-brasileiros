@@ -10,3 +10,4 @@ Esportes: Gama, Brasiliense, basquete e vôlei fortes, Joaquim Cruz (ouro nos 80
 Personalidades: Renato Russo, Dinho Ouro Preto, Ellen Oléria, Athos Bulcão.
 Identidade: brasiliense, "véi", "balão" (rotatória), "tesourinha", "baú" (ônibus), endereços em siglas (SQS, W3, L2), cidades-satélites, estereótipo de servidor público e concurseiro.
 Memes e internet: "Em Brasília, dezenove horas" (A Voz do Brasil), cidade sem esquina e sem pedestre, balões e tesourinhas que confundem visitantes, piada de que ninguém é de Brasília, "Ilha da Fantasia" dos políticos, Legião Urbana "Faroeste Caboclo".
+Zoeiras e curiosidades: concurseiros, cidade sem esquina, endereço que parece senha de wifi ("SQN 308 Bloco C"), umidade de deserto na seca.

@@ -10,3 +10,4 @@ Esportes: Corinthians, Palmeiras, São Paulo, Santos (Pelé), Choque-Rei, Interl
 Personalidades: Ayrton Senna, Monteiro Lobato, Tarsila, Mário de Andrade, Mazzaropi.
 Identidade: paulista (estado), paulistano (capital), "meu", "mano", "orra", "rolê", "farol" (semáforo), "r" caipira do interior, "Sampa".
 Memes e internet: bolacha x biscoito (lado da bolacha), trânsito da Marginal e rodízio, garoa e "quatro estações num dia", Faria Limer, "Palmeiras não tem Mundial", Corinthians "bando de loucos", "tá tranquilo, tá favorável" (MC Bin Laden).
+Zoeiras e curiosidades: "meu", trânsito, pizza "melhor que a da Itália", chuva de 10 minutos alaga a cidade.

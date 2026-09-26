@@ -10,3 +10,4 @@ Esportes: pouca expressão nacional, clubes Porto Velho, Genus, Ji-Paraná, Real
 Personalidades: Marechal Rondon, Jorge Teixeira, Almir Suruí, Txai Suruí.
 Identidade: rondoniense, "estado de migrantes", sotaques misturados, BR-364 como eixo, Vilhena "Portal da Amazônia", imagem de faroeste amazônico.
 Memes e internet: confusão eterna Rondônia x Roraima, "Rondônia existe?" na linha do "Acre não existe", ninguém sabe a capital, "todo mundo lá é paranaense ou gaúcho", "Ferrovia do Diabo" como curiosidade viral.
+Zoeiras e curiosidades: sotaque mistura de gaúcho, paranaense e mineiro, Madeira-Mamoré "a ferrovia do diabo".

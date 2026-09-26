@@ -10,3 +10,4 @@ Esportes: Nacional FC, Rio Negro, clássico Rio-Nal, Arena da Amazônia (Copa de
 Personalidades: Milton Hatoum, Thiago de Mello, Márcio Souza, Djalma Batista, Eduardo Ribeiro.
 Identidade: amazonense, baré, manauara, caboclo, gírias "leso", "mana/mano", "égua", fala cantada ribeirinha, rivalidade Garantido (vermelho) x Caprichoso (azul).
 Memes e internet: calor de Manaus ("é o inferno"), perguntas estereotipadas "vai à escola de canoa?", "mora em oca?", "tem jacaré na rua?", "tu é leso, é?", Garantido e Caprichoso chamando o rival de "contrário", Zona Franca para comprar eletrônico barato.
+Zoeiras e curiosidades: 40°C com 100% de umidade, boi de Parintins (Garantido × Caprichoso), jacaré na rua.

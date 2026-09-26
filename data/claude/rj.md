@@ -10,3 +10,4 @@ Esportes: Flamengo, Fluminense, Vasco, Botafogo, Maracanã, Fla-Flu, Zico, Garri
 Personalidades: Tom Jobim, Chico Buarque, Cartola, Noel Rosa, Tim Maia, Cazuza, Anitta.
 Identidade: carioca (capital) e fluminense (estado), "s" chiado, "mermão", "maneiro", "papo reto", malandragem, vida de praia, "Cidade Maravilhosa".
 Memes e internet: "Rio 40 graus", biscoito x bolacha (lado do biscoito), carioca que marca e não aparece, Nazaré Confusa, Inês Brasil ("se me atacar, eu vou atacar"), "cheirinho" do Flamengo, "Vasco vice", "só acontece com o Botafogo", "Cidade Maravilhosa, purgatório da beleza e do caos".
+Zoeiras e curiosidades: "mermão", o chiado, biscoito Globo com mate, praia numa segunda à tarde.

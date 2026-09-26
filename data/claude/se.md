@@ -10,3 +10,4 @@ Esportes: Confiança x Sergipe, Itabaiana (Tremendão), Estádio Batistão, Clod
 Personalidades: Tobias Barreto, Sílvio Romero, Arthur Bispo do Rosário, Manoel Bomfim, Zé Peixe (prático do porto de Aracaju).
 Identidade: sergipano, "Sergipe del-Rei", "menor estado", piadas sobre ser pequeno e esquecido entre Bahia e Alagoas.
 Memes e internet: "menor estado do Brasil" e zoeira de que se atravessa Sergipe a pé, "Sergipe existe?" na linha do "Acre não existe", ninguém lembra onde fica, "todo mundo em Aracaju é primo de alguém", Aracaju "Caju".
+Zoeiras e curiosidades: menor estado, vira unidade de medida ("área de X Sergipes"), caranguejo.

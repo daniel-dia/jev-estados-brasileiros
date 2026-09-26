@@ -170,7 +170,7 @@ const hover = ref('')
               v-model="tema" variant="none" size="xl" autofocus
               :loading="pending" placeholder="Digite um tema…"
               class="w-full"
-              :ui="{ base: 'px-0 text-3xl sm:text-4xl font-light placeholder:text-neutral-300 dark:placeholder:text-neutral-700' }"
+              :ui="{ base: 'px-0 py-1 text-3xl sm:text-4xl leading-normal sm:leading-normal font-light placeholder:text-neutral-300 dark:placeholder:text-neutral-700' }"
             />
             <!-- a linha do input vira a barra de cores quando o Jev responde -->
             <div class="flex mt-2 bg-neutral-200 dark:bg-neutral-800 transition-all duration-700"
@@ -186,7 +186,7 @@ const hover = ref('')
           <p class="text-xs text-neutral-400 -mt-3">
             {{ modo === 'puro'
               ? 'Só o tema vai pro Jev — o que ele sabe dos estados vem dele mesmo.'
-              : 'O tema vai junto com um perfil de cada estado: resumo da Wikipédia + cultura, folclore, história e política escritos pelo Claude.' }}
+              : 'O tema vai junto com um perfil de cada estado: resumo da Wikipédia + cultura, folclore, história, política, memes e zoeiras escritos pelo Claude.' }}
           </p>
           <p v-if="error" class="text-sm text-red-500">{{ error }}</p>
         </header>

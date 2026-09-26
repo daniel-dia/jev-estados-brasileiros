@@ -41,9 +41,9 @@ O puro responde em ~0,6 s, o com contexto em ~0,8 s. O contexto aparece onde o c
    português como texto → [`data/wikipedia/`](data/wikipedia) (~273 mil palavras).
 2. O Claude leu os 27 artigos e escreveu um resumo de ~150–190 palavras de cada um, num formato fixo
    (região, geografia e clima, economia, cultura, turismo, curiosidades) → [`data/resumos/`](data/resumos).
-3. O Claude também escreveu, do próprio conhecimento, um perfil de até ~265 palavras de cada estado com o que a
+3. O Claude também escreveu, do próprio conhecimento, um perfil de ~300 palavras de cada estado com o que a
    Wikipédia resumida não cobre: folclore e lendas, festas, música e dança, artes, culinária, religiosidade,
-   história, política, esportes, personalidades, identidade e **memes e internet** → [`data/claude/`](data/claude).
+   história, política, esportes, personalidades, identidade, **memes e internet** e uma linha de **zoeiras e curiosidades** curada pelo autor → [`data/claude/`](data/claude).
 4. [`data/build-contexts.mjs`](data/build-contexts.mjs) junta as duas fontes em
    [`server/contexts.json`](server/contexts.json), que a rota importa. O Jev recusa entradas acima de ~34k tokens
    (`max_tokens_exceeded`), então o script falha se o contexto passar de 90 mil caracteres.

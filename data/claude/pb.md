@@ -10,3 +10,4 @@ Esportes: Treze (Galo da Borborema) × Campinense (Raposa), Hulk (Campina Grande
 Personalidades: Jackson do Pandeiro, Elba Ramalho, Herbert Vianna, Celso Furtado, Luiza Erundina.
 Identidade: paraibano, pessoense, "Paraíba masculina, mulher-macho" (Luiz Gonzaga), "paraíba" usado pejorativamente no Rio para nordestino, "oxente", "arretado", João Pessoa "onde o sol nasce primeiro".
 Memes e internet: "Não sei, só sei que foi assim" (Chicó, "O Auto da Compadecida"), Juliette Freire (campeã do BBB21, de Campina Grande, "cactos"), "Ê, ô, ô, vida de gado" (Zé Ramalho, virou meme político), "Mama África" de Chico César, "Maior São João do Mundo" em disputa com Caruaru.
+Zoeiras e curiosidades: Ponta do Seixas, ponto mais oriental das Américas, onde o sol nasce primeiro.

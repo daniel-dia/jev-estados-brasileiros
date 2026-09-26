@@ -10,3 +10,4 @@ Esportes: Avaí x Figueirense, Chapecoense (tragédia aérea de 2016), Criciúma
 Personalidades: Guga, Cruz e Sousa, Santa Paulina, Franklin Cascaes.
 Identidade: manezinho da Ilha (sotaque açoriano, "tás tolo?", "ó-lhó-lhó"), sotaque alemão no Vale do Itajaí, "Floripa", "Vale Europeu", "estado mais europeu".
 Memes e internet: argentinos invadindo Floripa no verão, Balneário Camboriú "Dubai brasileira", Oktoberfest de Blumenau, Beto Carrero World, réplicas da Estátua da Liberdade das lojas Havan, neve em São Joaquim e Urupema.
+Zoeiras e curiosidades: acha que é a Europa, Oktoberfest de Blumenau, Beto Carrero, réplicas da Estátua da Liberdade da Havan.

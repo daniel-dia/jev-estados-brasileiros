@@ -10,3 +10,4 @@ Esportes: Operário Futebol Clube (semifinalista brasileiro de 1977), Morenão, 
 Personalidades: Ney Matogrosso (Bela Vista), Manoel de Barros, Glauce Rocha.
 Identidade: sul-mato-grossense, campo-grandense, "Cidade Morena", cultura de fronteira (Ponta Porã–Pedro Juan Caballero), espanhol e guarani no cotidiano, peão pantaneiro, tereré na roda.
 Memes e internet: "Mato Grosso do Sul não é Mato Grosso", Campo Grande-MS confundida com Campo Grande do Rio, memes da novela "Pantanal" (Juma Marruá virando onça), tereré como "chimarrão gelado", compras "no Paraguai" em Pedro Juan Caballero, "Ai Se Eu Te Pego" de Michel Teló viral no mundo.
+Zoeiras e curiosidades: "NÃO é Mato Grosso!", tereré, Pantanal.

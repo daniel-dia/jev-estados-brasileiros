@@ -10,3 +10,4 @@ Esportes: CRB, CSA, clássico CRB x CSA, Estádio Rei Pelé (Trapichão), Marta 
 Personalidades: Hermeto Pascoal, Nise da Silveira, Pontes de Miranda, Arthur Ramos, Tavares Bastos, Cacá Diegues.
 Identidade: alagoano, "Terra dos Marechais", "Paraíso das Águas", sotaque nordestino arrastado, "oxente", "vixe", estereótipo de estado pequeno e usineiro.
 Memes e internet: Zagallo "vocês vão ter que me engolir", Collor "tenho aquilo roxo", Carlinhos Maia (influencer de Penedo), Hermeto Pascoal "o Bruxo" tirando som de chaleira e bichos, Maceió "Caribe brasileiro".
+Zoeiras e curiosidades: Maragogi "Caribe brasileiro", terra de marechal (os dois primeiros presidentes, Deodoro e Floriano).
